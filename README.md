@@ -1,9 +1,8 @@
 
-#Pubmed
+# Pubmed
 
 The Pubmed repository focuses on preprocessing, organizing, and analyzing articles scraped from the online platform Pubmed/Medline. This repository does not include the scraping process itself but provides tools and scripts for handling the data after it has been scraped.
 
-Repository Contents
 The repository contains the following files:
 
 Preprocessing_Pipeline.ipynb: This Jupyter notebook contains a pipeline used to filter and clean the data. The preprocessing steps ensure that the articles are in a suitable format for further analysis and storage.
